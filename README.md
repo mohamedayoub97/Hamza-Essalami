@@ -1,24 +1,64 @@
-# enigma-machine
-Enigma machine simulator in JavaScript for didactic purposes.
+# 🧑‍💻 Hamza Sallemi – Personal Profile Website 🌐
+
+Welcome to the **Hamza Sallemi Profile Page**! 🎉 This is a clean, responsive, and modern personal website built with **HTML5 + CSS3** 💻, designed to showcase Hamza’s journey in engineering, applied mathematics, and his passion for data science. 📊✨
 
 ---
 
-As part of my #100DaysOfCode initiative, I developed an Enigma machine simulator from the ground up. For about three weeks, I’ve studied the machine technical details, wrote the simulator code in JavaScript and Node.js using a Test-Driven Development approach, created a web interface, and documented the steps in [blog articles](http://matheusportela.com/day-1-enigma).
+## 🚀 About the Project
 
-This is a simulator for the Enigma machine, one of the most incredible applications of cryptography during World War I and II. German militaries would send encrypted messages through the air using telegraphs about bombing locations with security, considering one would have to know the precise combination of rotor positioning, plugboard configuration, and other pieces in order to decode captured messages.
+This web page was created as a digital portfolio 💼 for **Hamza Sallemi**, an ambitious engineering student from **Gafsa, Tunisia 🇹🇳**, currently studying at **ENSIT – Ecole Nationale Supérieure des Ingénieurs de Tunis 🏫**.
 
-Even though several weaknesses were discovered - specially by the Allies forces - allowing one to break the code, the Enigma encryption algorithm is a fun way to study a little bit of cryptography.
+It highlights:
 
-Of course, studying the Enigma is also a tribute to Alan Turing.
+- 📚 Education and interests
+- 🧠 A brief biography
+- ✉️ Contact email
+- 🖼️ A profile picture
 
-## Web interface
+The design is fully responsive 📱 and adapts to smaller screens with ease.
 
-[http://matheusportela.com/enigma/](http://matheusportela.com/enigma/)
+---
 
-## References
+## 🛠️ Technologies Used
 
-- [Enigma machine](https://en.wikipedia.org/wiki/Enigma_machine)
-- [Enigma simulator](http://enigma.louisedade.co.uk/howitworks.html)
-- [Technical details on the Enigma machine](http://users.telenet.be/d.rijmenants/en/enigmatech.htm)
-- [Enigma cipher machine simulator 7.0.6](http://users.telenet.be/d.rijmenants/Enigma%20Sim%20Manual.pdf)
-- [Enigma simulator step by step](http://www.enigmaco.de/enigma/enigma.swf)
+- 🧱 **HTML5** – For structured content
+- 🎨 **CSS3** – For layout, style, and responsiveness
+- 🧪 Pure frontend – No JavaScript needed!
+
+---
+
+## 👀 Preview
+
+Here’s a sneak peek of the layout:
+
+📷 Left side – A crisp, professional image of Hamza  
+📄 Right side – Detailed personal info, education, goals, and contact
+
+---
+
+## 📧 Contact
+
+Want to get in touch? Reach out to Hamza here:  
+📬 **[aslamihamza@gmail.com](mailto:aslamihamza@gmail.com)**
+
+---
+
+## 🌈 Future Ideas
+
+Here are a few fun enhancements planned for the future:
+
+- 🌐 Multi-language support (Arabic 🇹🇳, French 🇫🇷, English 🇬🇧)
+- 🔗 Add social media buttons (LinkedIn, GitHub)
+- 📄 Add downloadable CV/resumé
+- 💬 Add interactive elements or contact form
+
+---
+
+## 🙌 Acknowledgments
+
+Big thanks to the open-source community ❤️ for inspiring this project and making personal portfolio development more accessible for everyone!
+
+---
+
+Made with ☕, 💻, and 💡 in Tunisia 🇹🇳  
+— **Hamza Sallemi's Dev Corner**
