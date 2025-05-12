@@ -61,4 +61,4 @@ Big thanks to the open-source community ❤️ for inspiring this project and ma
 ---
 
 Made with ☕, 💻, and 💡 in Tunisia 🇹🇳  
-— **Hamza Sallemi's Dev Corner**
+— **Hamza Sallemi**
